@@ -8,6 +8,10 @@
     "type": "git",
     "url": "https://github.com/maoqinqin/colors.git"
   },
+  "bugs": {
+    "url": "https://github.com/maoqinqin/colors/issues"
+  },
+  "homepage": "https://github.com/maoqinqin/colors/blob/master/README.md",
   "publishConfig": {
     "access": "public"
   },
@@ -21,7 +25,6 @@
   "author": "maoqinqin <934564149@qq.com>",
   "license": "ISC",
   "devDependencies": {
-    "father": "^2.30.1",
     "typescript": "^4.1.3"
   }
 }
